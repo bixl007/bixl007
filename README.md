@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bishal Baira</h1>
 <h3 align="center">A passionate learner on a mission to become a Software Developer. Coding is a passion of mine, and I'm always eager to delve into new technologies.</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bixl007/bixl007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 
 
