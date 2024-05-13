@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/bixl007/bixl007/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/bixl_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bixl_007" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bixl007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bixl007" height="30" width="40" /></a>
