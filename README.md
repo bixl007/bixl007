@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **MERN Stack and Backend Development**
 - 💬 Ask me about **DSA and Web Development**
 - 📫 How to reach me **bishalbx27@gmail.com**
-<br><br>
+<br> <br>
  
 
 <h2 align="center">Let's connect and create something amazing together!</h2>
