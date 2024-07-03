@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack and Backend Development**
+- 🌱 I’m currently learning **MERN Stack and DSA**
 - 💬 Ask me about **DSA and Web Development**
 - 📫 How to reach me **bishalbx27@gmail.com**
 <br> <br>
