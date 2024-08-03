@@ -6,8 +6,8 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack and DSA**
-- 💬 Ask me about **DSA and Web Development**
+- 🌱 I’m currently learning **MERN and Web3**
+- 💬 Ask me about **DSA, Web Development and Web3**
 - 📫 How to reach me **bishalbx27@gmail.com**
 <br> <br>
 
