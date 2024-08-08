@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bishal Baira</h1>
 
 
-
 <p align="center">A passionate tech enthusiast with a flair for innovation. I'm always brewing up new ideas and solutions.</p>
 
 
