@@ -30,7 +30,6 @@
 
 ## 👾 Fun Stuff
 - When I'm not coding, you'll find me shooting and editing videos. 
-- Apart from these, I play valorant 🌟
 
 <br>
 
