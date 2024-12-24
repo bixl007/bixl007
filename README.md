@@ -2,7 +2,7 @@
 
 <p align="center">A passionate tech enthusiast with a flair for innovation. I'm always brewing up new ideas and solutions.</p>
 
-- 🌱 I’m currently learning **DevOps and Web3**
+- 🌱 I’m currently learning **Web3**
 - 💬 Ask me about **DSA, Web Development, Web3 and DevOps**
 - 📫 How to reach me **bishalbx27@gmail.com**
 <br> <br>
