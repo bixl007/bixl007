@@ -27,8 +27,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bixl007?theme=dark&font=Noto%20Sans%20Canadian%20Aboriginal&ext=heatmap)
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bixl007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 👾 Fun Stuff
 - When I'm not coding, you'll find me playing games and editing videos. 
 
