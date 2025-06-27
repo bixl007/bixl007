@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Bishal Baira</h1>
+<h1 align="center">hey 👋 i'm Bishal Baira</h1>
 
-<p align="center">A passionate tech enthusiast with a flair for innovation. I'm always brewing up new ideas and solutions.</p>
+<p align="center">A builder, coder, and curious mind. always exploring tech, shipping ideas, and leveling up one project at a time.</p>
 
-- 🌱 I’m currently learning **Web3**
-- 💬 Ask me about **DSA, Web Development, Web3 and DevOps**
-- 📫 How to reach me **bishalbx27@gmail.com**
-<br> <br>
+- 🌱 Exploring **Web3**
+- 💬 Open to chat about **DSA, Web Development, Web3, and DevOps**
+- 📫 Reach out at **bishalbx27@gmail.com**
+
+<br><br>
+
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="center">
 <br><br> </p>
@@ -33,8 +35,8 @@
 <br>
 
 
-``` javascript
-
-console.log("Error 404: Brain Not Found");
-
+``` rust
+fn main() {
+    println!("Brain not braining");
+}
 ```
