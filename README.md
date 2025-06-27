@@ -1,6 +1,6 @@
 <h1 align="center">hey 👋 i'm Bishal Baira</h1>
 
-<p align="center">A builder, coder, and curious mind. always exploring tech, shipping ideas, and leveling up one project at a time.</p>
+<p align="center">Exploring code, chasing chaos, shipping vibes.</p>
 
 - 🌱 Exploring **Web3**
 - 💬 Open to chat about **DSA, Web Development, Web3, and DevOps**
