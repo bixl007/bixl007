@@ -1,6 +1,6 @@
-<h1 align="center">hey 👋 i'm Bishal Baira</h1>
 
-<p align="center">Exploring code, chasing chaos, shipping vibes.</p>
+<h3 align="center">"Just a dev trying to make the internet less boring 💻"</h3>
+</br>
 
 - 🌱 Exploring **Web3**
 - 💬 Open to chat about **DSA, Web Development, Web3, and DevOps**
