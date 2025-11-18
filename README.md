@@ -2,7 +2,7 @@
 <h3 align="center">"Just a dev trying to make the internet less boring 💻"</h3>
 </br>
 
-- 🌱 Exploring **Web3**
+- 🌱 Exploring **Web3 & AI**
 - 💬 Open to chat about **DSA, Web Development, Web3, and DevOps**
 - 📫 Reach out at **bishalbx27@gmail.com**
 
@@ -30,7 +30,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bixl007?theme=dark&font=Noto%20Sans%20Canadian%20Aboriginal&ext=heatmap)
 <br>
 ## 👾 Fun Stuff
-- When I'm not coding, you'll find me playing games and editing videos. 
+- Debugging my soul. 
 
 <br>
 
